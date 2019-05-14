@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Resources/Scenes/TitleScene.unity
+    guid: c6f2c3117890058459717e518eb13f56
+  - enabled: 1
+    path: Assets/Resources/Scenes/StartScene.unity
+    guid: a95761d17279f9d4a947be32f76d6977
+  - enabled: 1
+    path: Assets/Resources/Scenes/StartMovie.unity
+    guid: 37d071dd3535d6741abcdcc57b9fcf60
+  - enabled: 1
+    path: Assets/Assets_2/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Resources/Scenes/Ending.unity
+    guid: 34aa623d2df710e43b348483e32f237a
+  - enabled: 1
+    path: Assets/Assets_2/Scenes/OnDeadScene.unity
+    guid: 226d672c5bdb8cb4d94bc7bc6da6b56a
+  - enabled: 1
+    path: Assets/SetumeiScene/SetumeiScene.unity
+    guid: cb58a614208394d3a8b2682d7ba6acd3
+  - enabled: 1
+    path: Assets/EndrollScene/EndrollScene.unity
+    guid: 505844f7180df4160a5c92cc5c0304a5
+  m_configObjects: {}
